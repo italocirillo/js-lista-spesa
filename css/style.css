@@ -26,6 +26,15 @@ ul{
     list-style: none;
 }
 li{
-    border: 1px solid black;
+    border-bottom: 2px solid black;
     padding: 0.5em 0em;
 }
+ /* BONUS */
+ button{
+    text-transform: uppercase;
+    background-color: deepskyblue;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+    cursor: pointer;
+ }
